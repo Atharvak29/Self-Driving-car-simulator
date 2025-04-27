@@ -9,6 +9,13 @@ This project demonstrates an end-to-end deep learning approach to autonomous dri
 * The system learns driving behavior without manual feature engineering and operates within a simulation environment (e.g., Udacity Self-Driving Car Simulator).
 * The goal is to show how modern self-driving car systems can use computer vision and deep learning to make driving decisions.
 
+Implementation : https://user-images.githubusercontent.com/91852182/147305077-8b86ec92-ed26-43ca-860c-5812fea9b1d8.gif
+
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/91852182/147305077-8b86ec92-ed26-43ca-860c-5812fea9b1d8.gif" alt="Refence inplementation">
+</p>
+
+
 ## 3. What's New / Highlights
 * **End-to-End Pipeline:** Raw images to steering commands — no manual lane detection or traditional CV techniques.
 * ~**Data Augmentation:** Improves model robustness (e.g., brightness shifts, flips, camera angle offsets).~
