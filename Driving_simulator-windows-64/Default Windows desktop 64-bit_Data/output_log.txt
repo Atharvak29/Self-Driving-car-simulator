@@ -1,0 +1,85 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   Intel
+    VRAM:     2120 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\athud\Data Science\Capstone self driving project\Driving_simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 7.254800 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2590 -> priority: 1 
+  Thread -> id: 38b4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.021700 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.501900 ms (FindLiveObjects: 0.033300 ms CreateObjectMapping: 0.008500 ms MarkObjects: 0.130200 ms  DeleteObjects: 0.329300 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.981800 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 1.088900 ms (FindLiveObjects: 0.143300 ms CreateObjectMapping: 0.113200 ms MarkObjects: 0.448800 ms  DeleteObjects: 0.382800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.966600 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 3.554600 ms (FindLiveObjects: 0.035200 ms CreateObjectMapping: 0.029000 ms MarkObjects: 0.414700 ms  DeleteObjects: 3.075000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.059100 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 1.208200 ms (FindLiveObjects: 0.124800 ms CreateObjectMapping: 0.074000 ms MarkObjects: 0.619800 ms  DeleteObjects: 0.389000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.154100 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 5.194000 ms (FindLiveObjects: 0.038600 ms CreateObjectMapping: 0.040100 ms MarkObjects: 0.506300 ms  DeleteObjects: 4.608300 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.823000 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 1.301400 ms (FindLiveObjects: 0.088100 ms CreateObjectMapping: 0.046100 ms MarkObjects: 0.590300 ms  DeleteObjects: 0.575900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.591700 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 4.481300 ms (FindLiveObjects: 0.035500 ms CreateObjectMapping: 0.026300 ms MarkObjects: 0.461500 ms  DeleteObjects: 3.957300 ms)
+
