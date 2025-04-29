@@ -10,9 +10,11 @@ This project demonstrates an end-to-end deep learning approach to autonomous dri
 * The goal is to show how modern self-driving car systems can use computer vision and deep learning to make driving decisions.
 
 ## Implementation : 
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/91852182/147305077-8b86ec92-ed26-43ca-860c-5812fea9b1d8.gif" alt="Refence inplementation">
-</p>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/83ea9528-1b5a-4995-8edd-a1f56bfb9296" width="45%">
+  <img src="https://github.com/user-attachments/assets/2e648c68-d3f6-4821-bef6-654ee89731ce" width="45%">
+</div>
 
 
 ## 3. What's New / Highlights
